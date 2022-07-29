@@ -1,0 +1,16 @@
+.resetButton {
+  width: 100px;
+  height: 40px;
+  border: 1px solid #cfcfcf;
+  border-radius: 6px;
+  box-shadow: 2px 2px 2px #cfcfcf;
+  cursor: pointer;
+  background: #d13c3c;
+  color: white;
+  font-size: 16px;
+  margin-right: 10px;
+}
+.resetButton:disabled {
+  cursor: not-allowed;
+  background: #e78e8e;
+}

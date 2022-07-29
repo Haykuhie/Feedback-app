@@ -1,0 +1,5 @@
+.buttonsFlex {
+  display: flex;
+  justify-content: right;
+  margin-top: 7px;
+}

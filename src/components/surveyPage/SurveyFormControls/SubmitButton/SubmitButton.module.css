@@ -1,0 +1,15 @@
+.submitButton {
+  width: 100px;
+  height: 40px;
+  border: 1px solid #cfcfcf;
+  border-radius: 6px;
+  box-shadow: 2px 2px 2px #cfcfcf;
+  cursor: pointer;
+  background: rgb(8, 6, 119);
+  color: white;
+  font-size: 16px;
+}
+.submitButton:disabled{
+  cursor:not-allowed;
+  background: rgba(8, 6, 119, 0.5);
+}

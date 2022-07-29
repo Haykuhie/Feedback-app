@@ -1,0 +1,21 @@
+.formWrapper {
+  margin: 0px auto;
+  margin-top: 60px;
+  padding: 0 60px;
+  width: 40%;
+  height: 98vh;
+  border: 3px solid #cfcfcf;
+  border-radius: 8px;
+  box-shadow: 2px 2px 2px #cfcfcf;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-sizing: border-box;
+  background: white;
+}
+.comment {
+  height: 60px;
+  word-break: break-word;
+  overflow: hidden;
+  padding-top: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12.5px;
+}

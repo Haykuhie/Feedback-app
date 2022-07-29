@@ -1,0 +1,11 @@
+.header{
+    width:95%;
+    height:100vh;
+    box-sizing: border-box;
+    margin:0 auto;
+    border-radius:6px;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+}

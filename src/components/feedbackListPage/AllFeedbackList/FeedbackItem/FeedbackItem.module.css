@@ -1,0 +1,42 @@
+.customerData {
+  display: flex;
+  justify-content: space-between;
+  line-height: 4vh;
+  height: 3vh;
+}
+.feedbackDate {
+  width: 20%;
+  height: 5vh;
+}
+.dataItem {
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 400;
+}
+.customerName {
+  width: 20%;
+}
+.phoneNumber {
+  width: 20%;
+}
+.emailAddress {
+  width: 30%;
+}
+.stars {
+  width: 15%;
+  text-align: center;
+  margin-right: 8px;
+}
+.comment {
+  color: rgba(0, 0, 0, 0.7);
+  margin-top: 10px;
+}
+.feedbackItem {
+  width: 100%;
+  border-radius: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  margin-bottom: 5px;
+  box-sizing: border-box;
+  padding: 20px;
+  background: white;
+}
